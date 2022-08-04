@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="todo" title="#todo" src="https://raw.githubusercontent.com/BrunoSaibert/todo/main/assets/Logo.png" width="200px" />
+    <img alt="todo" title="#todo" src="https://raw.githubusercontent.com/BrunoSaibert/todo/main/assets/logo-small.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -36,7 +36,7 @@
   <a href="#--licença">Licença</a>
 </p>
 
-![](https://raw.githubusercontent.com/BrunoSaibert/todo/main/assets/Capa.jpg)
+![](https://raw.githubusercontent.com/BrunoSaibert/todo/main/assets/cover.jpg)
 
 ## [](https://github.com/BrunoSaibert/todo#--sobre-o-projeto) 💻 Sobre o projeto
 
